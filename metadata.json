@@ -1,0 +1,8 @@
+{
+  "name": "Casio F-91W Digital Watch",
+  "description": "Authentic classic Casio F-91W digital watch and Android mobile widget with exact timekeeping, stopwatch, daily alarm, hourly chime, micro-light, piezo beeps, and easter eggs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
